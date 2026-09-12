@@ -1,7 +1,7 @@
 import unittest
 import pandas as pd
 import numpy as np
-from series_practice_1 import *
+from src.series_practice_1 import *
 
 class TestElectronicsStoreSalesAnalysis(unittest.TestCase):
     @classmethod
